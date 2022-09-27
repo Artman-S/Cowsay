@@ -1,0 +1,14 @@
+{
+  "name": "cowsay",
+  "version": "1.0.0",
+  "description": "quête cowsay",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "seb",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
